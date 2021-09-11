@@ -7,6 +7,6 @@
 
 该项目上传了两个部分： 
 
-1、手机软件工程；
+1、手机软件工程(在Android Studio上运行）；
 
-2、实现PLSR的Matlab代码。
+2、实现PLSR算法的Matlab代码。
