@@ -12,7 +12,7 @@
 
 1、手机软件工程(在Android Studio上运行）；
 
-2、实现PLSR算法的Matlab代码。
+2、实现PLSR算法的Matlab代码（即apple_dec_plsR.m）。
 
 
 
