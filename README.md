@@ -8,7 +8,8 @@
 您可以在这里（https://cc.moocollege.com/#/details/worksShow/143428/6978）
 看到我们在参加西南赛区区赛时的作品展示！
 
-百度云盘(https://pan.baidu.com/s/1i6uTxV3C5rTLVkvhQ8ty0A)（提取码：pjdj）可以下载我们的整个项目!
+百度云盘(https://pan.baidu.com/s/1i6uTxV3C5rTLVkvhQ8ty0A
+)（提取码：pjdj）可以下载我们的整个项目!
 
 该项目上传了两个部分： 
 
