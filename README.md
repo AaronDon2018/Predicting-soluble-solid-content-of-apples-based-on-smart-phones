@@ -5,8 +5,8 @@
 
 我们采用的糖度预测模型是偏最小二乘回归法（PLSR）
 
-您可以在这里（https://cc.moocollege.com/#/share?mdPoolId=c798395245f9f2a15748ccc315260b9a）
-看到我们在国赛是提交的作品展示！
+您可以在这里（https://cc.moocollege.com/#/share?mdPoolId=c798395245f9f2a15748ccc315260b9a
+）看到我们在国赛是提交的作品展示！
 
 百度云盘(https://pan.baidu.com/s/1i6uTxV3C5rTLVkvhQ8ty0A
 )（提取码：pjdj）可以下载我们的整个项目!
