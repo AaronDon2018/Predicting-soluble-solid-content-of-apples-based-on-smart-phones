@@ -1,6 +1,6 @@
 %pz=csvread('C:\Users\T\Desktop\Apple_data_2_1.csv',2,1);%csvread只能读取纯数据
 clear;
-pz=load('111.txt');
+pz=load('Apple_DATA.txt');
 %pz(:,4)=pz(:,4)-9;
 mu=mean(pz);sig=std(pz); %求均值和标准差
 rr=corrcoef(pz); %求相关系数矩阵
